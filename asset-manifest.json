@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/App1/static/css/main.21f4f756.chunk.css",
+    "main.js": "/App1/static/js/main.9175c436.chunk.js",
+    "main.js.map": "/App1/static/js/main.9175c436.chunk.js.map",
+    "runtime-main.js": "/App1/static/js/runtime-main.e936345b.js",
+    "runtime-main.js.map": "/App1/static/js/runtime-main.e936345b.js.map",
+    "static/js/2.34ab0423.chunk.js": "/App1/static/js/2.34ab0423.chunk.js",
+    "static/js/2.34ab0423.chunk.js.map": "/App1/static/js/2.34ab0423.chunk.js.map",
+    "index.html": "/App1/index.html",
+    "precache-manifest.ebe85ff7afe49f0e9a5167ddd408a82d.js": "/App1/precache-manifest.ebe85ff7afe49f0e9a5167ddd408a82d.js",
+    "service-worker.js": "/App1/service-worker.js",
+    "static/css/main.21f4f756.chunk.css.map": "/App1/static/css/main.21f4f756.chunk.css.map",
+    "static/js/2.34ab0423.chunk.js.LICENSE": "/App1/static/js/2.34ab0423.chunk.js.LICENSE",
+    "static/media/index.css": "/App1/static/media/manhattan-336708_1280.837ba7fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e936345b.js",
+    "static/js/2.34ab0423.chunk.js",
+    "static/css/main.21f4f756.chunk.css",
+    "static/js/main.9175c436.chunk.js"
+  ]
+}
